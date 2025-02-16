@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBtZDZudHR1cHphNm4xMzdlYWVxZG1jaG85aW1mYTY3cnk3OTVnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNFFHJ5Ki8KBJbS2Lt/giphy.gif">
+<img width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </p>
 
 ## Hi there 👋 It's me Pradeep  
@@ -24,27 +24,17 @@
 ---
 
 ## 🛠 I Code In  
-
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <p>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-        <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Wjn4XtfEFiGw&format=png&color=000000"/>
-        <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
-      </p>
-    </td>
-    <td align="right" width="50%">
-      <img width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-    </td>
-  </tr>
-</table>
+<p>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Wjn4XtfEFiGw&format=png&color=000000"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+</p>
 ---
 
 ## 🛠 IDEs & Tools  

@@ -89,7 +89,9 @@
 
 <p align="CENTER">
   <img src="https://komarev.com/ghpvc/?username=mpradeep2005&color=blue" alt="Profile Views"/>
-  <img align="CENTER" width="270" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+</p>
+<p>
+  <img align="CENTER" width="270" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 </p>
 ---
 

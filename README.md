@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats & Customizations
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mpradeep2005&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mpradeep2005" alt="GitHub Streak" height="180"/>
 </p>
 
 

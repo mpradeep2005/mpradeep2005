@@ -10,7 +10,8 @@
 
 ---
 
-## 🔥 Interests
+## 🔥 Interests  
+<img align="right" width="170" height="90" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🖥️ **PC Hardware Enthusiast**  
 - 💰 **Crypto & Blockchain**  
@@ -33,15 +34,16 @@
 </p>
 
 ---
-<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-## 🛠 IDEs & Tools  
 
+## 🛠 IDEs & Tools  
+<p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=121485&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/>
+</p>
 
 ---
 

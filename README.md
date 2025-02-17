@@ -1,5 +1,5 @@
 <p align="center">
-<img width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+  <img width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhrdHdjYWRob3p4MjFzb3o0eDF5ZmJ2MnB3Nm54NzQ4aGp6Z2tuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </p>
 
 ## Hi there 👋 It's me Pradeep  
@@ -72,27 +72,27 @@
 ## 📊 GitHub Stats & Customizations  
 
 <p align="CENTER">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpradeep2005&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="CENTER">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mpradeep2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="CENTER">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpradeep2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ### 🏆 GitHub Achievements  
 
 <p align="CENTER">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mpradeep2005&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ### 👀 Profile Views Counter  
 
 <p align="CENTER">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mpradeep2005&color=blue" alt="Profile Views"/>
 </p>
 
 ---

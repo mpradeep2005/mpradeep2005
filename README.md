@@ -71,9 +71,7 @@
 
 ## 📊 GitHub Stats & Customizations
 <p align="CENTER">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mpradeep2005&theme=radical" alt="GitHub Streak"/>
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mpradeep2005&theme=radical)](https://git.io/streak-stats)
 </p>
 
 <p align="CENTER">

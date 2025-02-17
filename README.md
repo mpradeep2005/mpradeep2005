@@ -70,9 +70,11 @@
 ---
 
 ## 📊 GitHub Stats & Customizations
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mpradeep2005" alt="GitHub Streak" /></a>
-
+<p align="CENTER">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mpradeep2005&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <p align="CENTER">
   <img src="https://github-readme-stats.vercel.app/api?username=mpradeep2005&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -81,6 +83,7 @@
 <p align="CENTER">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpradeep2005&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 
 ### 🏆 GitHub Achievements  
 

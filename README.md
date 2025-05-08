@@ -23,8 +23,8 @@
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Logo"/>
-<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-spring-boot-is-an-open-source-java-based-framework-used-to-create-stand-alone-spring-applications-logo-color-tal-revivo.png" alt="Spring Boot Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Logo"/>
+<img height="50" width="50" src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-spring-boot-is-an-open-source-java-based-framework-used-to-create-stand-alone-spring-applications-logo-color-tal-revivo.png](https://icons8.com/icon/A3Ulk2RcONKs/spring-boot)" alt="Spring Boot Logo"/>
 
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Wjn4XtfEFiGw&format=png&color=000000"/>

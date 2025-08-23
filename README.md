@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Pradeep  
 
-### 🚀 Full Stack Developer | Part-time Trader | Crypto Exchanger  
+### 🚀 Back-end Developer | GenAi Enthusiast | Crypto Exchanger  
 
-- 🌱 I’m currently learning **Spring and Spring Boot**  
+- 🤖 I’m currently learning **Pytorch and Opencv**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-m-43aa2427a/)  

@@ -24,17 +24,15 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Wjn4XtfEFiGw&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 </p>
 
 ---
 
 ## 📚 Libraries  
 <p>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="NumPy Logo"/>
-  <img height="50" width="50" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV Logo"/>
-  <img height="50" width="50" src="https://projectlombok.org/img/lombok.svg" alt="Lombok Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="OpenCV Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Un8ABnYg43SH&format=png&color=FA5252" alt="Lombok Logo"/>
 </p>
 
 ---
@@ -56,15 +54,18 @@
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=121485&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Postman Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="Postman Logo"/>
 </p>
 
 ---
 
+
 ## 💻 Workspace Setup  
 <p>
-  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+  <img height="30" src="https://img.shields.io/badge/Intel-Core_i3_10th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Intel%20UHD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+
+
 </p>
 
 ---

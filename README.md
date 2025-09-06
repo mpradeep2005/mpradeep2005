@@ -2,7 +2,7 @@
 
 ### 🚀 Back-end Developer | GenAI Enthusiast | Crypto Exchanger  
 
-- 🤖 I’m currently learning **PyTorch and OpenCV**  
+- 🤖 I’m currently learning **Tensorflow and OpenCV**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-m-43aa2427a/)  
@@ -41,7 +41,7 @@
 <p>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" alt="Spring Boot Logo"/>
-  <img height="50" width="50" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="Tensorflow Logo"/>
 </p>
 
 ---

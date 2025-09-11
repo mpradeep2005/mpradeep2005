@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Pradeep  
 
-### 🚀 Back-end Developer | GenAI Enthusiast | Crypto Exchanger  
+### 🚀 Back-end Developer | GenAI Enthusiast | Crypto Enthusiast 
 
 - 🤖 I’m currently learning **Tensorflow and OpenCV**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
@@ -57,26 +57,7 @@
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="Postman Logo"/>
 </p>
 
----
 
-
-## 💻 Workspace Setup  
-<p>
-  <img height="30" src="https://img.shields.io/badge/Intel-Core_i3_10th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Intel%20UHD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-
-
-</p>
-
----
-
-## 💹 Crypto Exchange & Trading  
-
-- 🚀 **Active on:**  
-  - **Bybit, Binance, Bitget**  
-  - **Indian Exchanges:** Giotus, SunCrypto  
-- 💰 **Available for INR to BTC exchanges**  
-- 📊 **Day Trader | Altcoin Investor**  
 
 ---
 

@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Pradeep  
+# Hi there 👋 It's me Pradeep  
 
-### 🚀 Back-end Developer | GenAI Enthusiast | Crypto Enthusiast 
+### 🚀 AI Enginner | Back-end Developer | Crypto Enthusiast 
 
 - 🤖 I’m currently learning **Pytorch**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
@@ -32,7 +32,8 @@
 
 ## 📚 Libraries  
 <p>
-   <img height="50" width="50" src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd4128_Ultrlytics%20YOLO%20Vision%20RGB%20White.avif" alt="yolo"/>
+   <img height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/718826c9a8916ce4df8a94babb463f4d3f2a0501/icons/yolo.svg" alt="yolo"/>
+  <img height="50" width="50" src="https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="OpenCV Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
@@ -54,6 +55,8 @@
 
 ## 🛠 IDEs & Tools  
 <p>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QRYk2DcqCT2w&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=rdKV2dee9wxd&format=png&color=000000"  />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>

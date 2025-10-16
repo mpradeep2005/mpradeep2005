@@ -23,18 +23,20 @@
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  
 </p>
 
 ---
 
 ## 📚 Libraries  
 <p>
+   <img height="50" width="50" src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd4128_Ultrlytics%20YOLO%20Vision%20RGB%20White.avif" alt="yolo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="OpenCV Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
-  <img height="50" width="50" src="https://www.ultralytics.com/" alt="yolo"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100" alt="NumPy Logo"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="OpenCV Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Un8ABnYg43SH&format=png&color=FA5252" alt="Lombok Logo"/>
 </p>
 
@@ -42,6 +44,7 @@
 
 ## 🏗 Frameworks  
 <p>
+  <img height="50" width="50" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="Pytorch"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" alt="Spring Boot Logo"/>
@@ -51,6 +54,7 @@
 
 ## 🛠 IDEs & Tools  
 <p>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=rdKV2dee9wxd&format=png&color=000000"  />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>

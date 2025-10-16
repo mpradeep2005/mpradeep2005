@@ -2,7 +2,7 @@
 
 ### 🚀 Back-end Developer | GenAI Enthusiast | Crypto Enthusiast 
 
-- 🤖 I’m currently learning **Tensorflow and OpenCV**  
+- 🤖 I’m currently learning **Pytorch**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-m-43aa2427a/)  
@@ -21,16 +21,19 @@
 
 ## 🛠 I Code In  
 <p>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </p>
 
 ---
 
 ## 📚 Libraries  
 <p>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy Logo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas"/>
+  <img height="50" width="50" src="https://www.ultralytics.com/" alt="yolo"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100" alt="NumPy Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="OpenCV Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Un8ABnYg43SH&format=png&color=FA5252" alt="Lombok Logo"/>
 </p>
@@ -39,9 +42,9 @@
 
 ## 🏗 Frameworks  
 <p>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="Pytorch"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Logo"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" alt="Spring Boot Logo"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="Tensorflow Logo"/>
 </p>
 
 ---

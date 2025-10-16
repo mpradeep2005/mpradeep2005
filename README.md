@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Pradeep  
 
-### 🚀 AI Enginner | Back-end Developer | Crypto Enthusiast 
+### 🚀 AI Engineer | Back-end Developer | Crypto Enthusiast 
 
 - 🤖 I’m currently learning **Pytorch**  
 - 💬 Ask me about **Tech, Programming, Gaming, Trading**  
